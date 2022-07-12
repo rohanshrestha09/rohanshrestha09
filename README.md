@@ -27,9 +27,9 @@
       height="40"
     />
   </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="border-radius:50%">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://th.bing.com/th/id/OIP.QMm8melj-4Qc0UfwN0aC_gHaHa?pid=ImgDet&rs=1"
+      src="https://th.bing.com/th/id/OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa?pid=ImgDet&rs=1"
       alt="nextjs"
       width="40"
       height="40"
