@@ -21,7 +21,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://th.bing.com/th/id/OIP.V6XT1H4Ai57Tq4N7Skig4QHaEK?pid=ImgDet&rs=1"
+      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
       alt="nextjs"
       width="40"
       height="40"
