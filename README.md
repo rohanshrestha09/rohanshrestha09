@@ -33,6 +33,7 @@
       alt="nextjs"
       width="40"
       height="40"
+      style="border-radius:50%;"
     />
   </a>
 
