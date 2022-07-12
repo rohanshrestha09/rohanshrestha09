@@ -36,10 +36,8 @@
     />
   </a>
 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
         <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-   
-
     <a href="https://expressjs.com" target="_blank"> <img src="https://th.bing.com/th/id/R.d14b288ef88c59b105648c89386fdb2c?rik=rRND4olvqXoz%2fA&pid=ImgRaw&r=0" alt="express" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
@@ -58,7 +56,7 @@
     />
   </a>
         <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-        <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+        <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
