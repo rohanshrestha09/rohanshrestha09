@@ -46,7 +46,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?pid=ImgDet&rs=1](https://www.pinclipart.com/picdir/middle/102-1024726_related-wallpapers-node-js-logo-png-clipart.png"
+      src="https://img.icons8.com/color/48/000000/nodejs.png"
       alt="nodejs"
       width="40"
       height="40"
