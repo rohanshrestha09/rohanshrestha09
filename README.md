@@ -29,7 +29,7 @@
   </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+      src="https://raw.githubusercontent.com/unicodeveloper/awesome-nextjs/98f0357f396c170a6c0b2ae67857df0d12207d1e/nextjs-logo.svg"
       alt="nextjs"
       width="40"
       height="40"
