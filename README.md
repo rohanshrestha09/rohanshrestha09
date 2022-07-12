@@ -106,7 +106,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/rohanshrestha09/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rohanshrestha09">
 </a>
 <a href="https://github.com/rohanshrestha09?tab=followers"><img src="https://img.shields.io/github/followers/rohanshrestha09?label=Followers&style=social" alt="GitHub Badge"></a>
