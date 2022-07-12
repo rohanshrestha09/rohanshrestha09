@@ -46,7 +46,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?pid=ImgDet&rs=1"
       alt="nodejs"
       width="40"
       height="40"
