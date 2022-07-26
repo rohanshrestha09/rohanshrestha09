@@ -92,7 +92,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rohanshrestha09/github-readme-activity-graph"><img alt="Rohan Shrestha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohanshrestha09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohanshrestha09&theme=react-dark)](https://github.com/rohanshrestha09/github-readme-activity-graph)
 
 <br/>
 <br/>
