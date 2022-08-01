@@ -63,7 +63,7 @@
   </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
       alt="typescript"
       width="40"
       height="40"
