@@ -63,7 +63,7 @@
   </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.nodejs-typescript-api.com/curso-gratis/ts.png"
+      src="https://hackr.io/tutorials/learn-typescript/logo/logo-typescript?ver=1610119323"
       alt="typescript"
       width="40"
       height="40"
