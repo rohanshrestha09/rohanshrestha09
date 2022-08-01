@@ -55,7 +55,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://th.bing.com/th/id/R.d14b288ef88c59b105648c89386fdb2c?rik=rRND4olvqXoz%2fA&pid=ImgRaw&r=0" alt="express" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      src="https://spng.pinpng.com/pngs/s/208-2082662_logo-nestjs-nest-js-hd-png-download.png"
       alt="nestjs"
       width="40"
       height="40"
