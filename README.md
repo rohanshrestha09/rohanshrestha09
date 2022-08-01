@@ -63,7 +63,7 @@
   </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://hackr.io/tutorials/learn-typescript/logo/logo-typescript?ver=1610119323"
+      src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
       alt="typescript"
       width="40"
       height="40"
